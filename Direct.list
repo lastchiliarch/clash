@@ -8,9 +8,9 @@ DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # US Bank 
-capitalone.com
-americanexpress.com
-mastercard.com
+DOMAIN-SUFFIX,capitalone.com
+DOMAIN-SUFFIX,americanexpress.com
+DOMAIN-SUFFIX,mastercard.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
